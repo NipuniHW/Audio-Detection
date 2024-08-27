@@ -13,8 +13,5 @@ Then flattened the output and fed it into a dense layer. 30% dropouts were consi
 
 Output layer was a Dense layer with 2 neurons, and Softmax activation.
 
-Accuracy: ![image](https://github.com/user-attachments/assets/5cff64ec-ca6a-49ae-bf56-cfb54c11f330)
+Accuracy: ![image](https://github.com/user-attachments/assets/aeedb148-bb8f-452c-a54a-e6974df2781c)
 
-    
-    #output layer
-    model.add(keras.layers.Dense(10, activation='softmax'))
